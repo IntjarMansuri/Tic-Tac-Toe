@@ -22,10 +22,6 @@ This project offers a straightforward and enjoyable Tic-Tac-Toe gaming experienc
 5. If no winner is found and the grid is filled, the game ends in a draw.
 6. Click the "New Game" button to start a new game at any time.
 
-## Installation
-
-To play the game locally, simply clone the repository to your local machine and open the `index.html` file in your preferred web browser.
-
-```bash
-git clone https://github.com/IntjarMansuri/Tic-Tac-Toe.git
-cd tic-tac-toe
+## Screenshot
+![tic-tac-toe-1](https://github.com/IntjarMansuri/Tic-Tac-Toe/assets/139264242/88c1e0f4-7fa7-4b95-b483-6e1c4c7248b0),
+![tic-tac-toe-2](https://github.com/IntjarMansuri/Tic-Tac-Toe/assets/139264242/a1463422-4c32-446a-9819-086fb4c6f02c)
