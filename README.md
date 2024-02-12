@@ -27,5 +27,5 @@ This project offers a straightforward and enjoyable Tic-Tac-Toe gaming experienc
 To play the game locally, simply clone the repository to your local machine and open the `index.html` file in your preferred web browser.
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/IntjarMansuri/Tic-Tac-Toe.git
 cd tic-tac-toe
